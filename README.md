@@ -38,5 +38,5 @@ Factorial of 7 is 5040
 ## Authour 
 
 ***[Vasantha]***
-Github : [https://github.com/vasanthamma.in]
+Github : [https://github.com/vasanthammaavula]
 
